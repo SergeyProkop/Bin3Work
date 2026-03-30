@@ -1,0 +1,15 @@
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\bin\Debug\net10.0\c#_app.exe
+C:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\bin\Debug\net10.0\c#_app.deps.json
+C:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\bin\Debug\net10.0\c#_app.runtimeconfig.json
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\bin\Debug\net10.0\c#_app.dll
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\bin\Debug\net10.0\c#_app.pdb
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.AssemblyInfoInputs.cache
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.AssemblyInfo.cs
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.csproj.CoreCompileInputs.cache
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.sourcelink.json
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.dll
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\refint\c#_app.dll
+c:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.pdb
+C:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\c#_app.genruntimeconfig.cache
+C:\Users\user.DESKTOP-98MNJC8\Desktop\My_Projects\c#_app\obj\Debug\net10.0\ref\c#_app.dll
